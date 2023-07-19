@@ -1,0 +1,4 @@
+.terraform/providers/registry.terraform.io/hashicorp/azurerm/2.58.0/windows_amd64/terraform-provider-azurerm_v2.58.0_x5.exe
+.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.65.0/windows_amd64/terraform-provider-azurerm_v3.65.0_x5.exe
+.terraform/*
+**/terraform-provider-*.exe
